@@ -1,0 +1,38 @@
+.goalItem{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+  
+}
+.items{
+   width: 90%;
+   margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.listBtn{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    border: 2px solid #8b005d;
+    margin: 0rem 0.5rem;
+}
+
+.compBtn, .delBtn{
+    border: none;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+   width: 3rem;
+   cursor: pointer;
+   color: white;
+ --fa-animation-duration: 3s; 
+
+}
+
+.compBtn{
+    background: rgb(4, 95, 4);
+}
+.delBtn{
+    background: rgb(146, 3, 3);
+}
