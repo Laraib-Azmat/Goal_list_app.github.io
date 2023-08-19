@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Goal-list-app/static/css/main.6dfc91a0.css",
+    "main.js": "/Goal-list-app/static/js/main.8594341c.js",
+    "static/js/787.7d9a2a06.chunk.js": "/Goal-list-app/static/js/787.7d9a2a06.chunk.js",
+    "index.html": "/Goal-list-app/index.html",
+    "main.6dfc91a0.css.map": "/Goal-list-app/static/css/main.6dfc91a0.css.map",
+    "main.8594341c.js.map": "/Goal-list-app/static/js/main.8594341c.js.map",
+    "787.7d9a2a06.chunk.js.map": "/Goal-list-app/static/js/787.7d9a2a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dfc91a0.css",
+    "static/js/main.8594341c.js"
+  ]
+}
